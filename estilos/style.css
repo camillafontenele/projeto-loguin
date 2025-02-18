@@ -129,4 +129,6 @@ form > a.botao:hover {
 
 form > a.botao i {
     font-size: 0.9em;
+    position: relative;
+    top: 2px
 }
